@@ -1,13 +1,14 @@
 [
-    {
-        "id":1,
-        "imagen":"https://dl8.wapkizfile.info/img/163c8fac28145f64ebb6aa0b6186c887/osanime+wapkiz+com/cover.jpg",
-        "title":"Dandadan",
-        "manga":"https://es.novelcool.com/novel/Dandadan.html",
-        "anime":"https://www3.animeflv.net/anime/dandadan",
-        "cancion":"https://www.osanime.com/filedownload/2948478/Otonoke-(osanime.com).mp3",
-        "tags":"Acción, Comedia, Shounen, Sobrenatural"
-    },
+   {
+    "id": 1,
+    "imagen": "https://dl8.wapkizfile.info/img/163c8fac28145f64ebb6aa0b6186c887/osanime+wapkiz+com/cover.jpg",
+    "title": "Dandadan",
+    "manga": "https://es.novelcool.com/novel/Dandadan.html",
+    "anime": "https://www3.animeflv.net/anime/dandadan",
+    "cancion": "/audio/dandadan.mp3",
+    "tags": "Acción, Comedia, Shounen, Sobrenatural"
+}
+
     {
         "id":2,
         "imagen":"https://animeflv.net/uploads/animes/covers/3870.jpg",
